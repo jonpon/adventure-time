@@ -1,0 +1,11 @@
+//wait for dom ready
+$(function()) {
+	
+
+
+
+
+
+
+	
+}
